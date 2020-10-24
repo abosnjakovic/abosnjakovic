@@ -16,9 +16,10 @@
 [<img align="left" alt="adam.bosnjakovic | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+<br />
 
 [![adimension github stats](https://github-readme-stats.vercel.app/api?username=abosnjakovic)](https://github.com/anuraghazra/github-readme-stats)<br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abosnjakovic&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<br />
+<br />
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=adimension)](https://github.com/anuraghazra/github-readme-stats)<br />
 
 ---
