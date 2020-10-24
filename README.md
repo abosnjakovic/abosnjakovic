@@ -17,7 +17,7 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Emacs" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/emacs/emacs.png" />][https://github.com/topics/emacs]
+[<img align="left" alt="Emacs" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/emacs/emacs.png" />][emacs]
 [<img align="left" alt="Neovim" width="32px" src="https://raw.githubusercontent.com/neovim/neovim.github.io/master/logos/neovim-logo-300x87.png" />][https://github.com/neovim/neovim]
 [<img align="left" alt="Typescript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />][https://github.com/topics/typescript]
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][https://github.com/topics/react]
@@ -39,3 +39,4 @@
 [twitter]: https://twitter.com/adimension_io
 [instagram]: https://www.instagram.com/adam.bosnjakovic
 [linkedin]: https://www.linkedin.com/in/adimension/
+[emacs]: https://github.com/topics/emacs
