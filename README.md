@@ -1,12 +1,12 @@
 [![Website](https://img.shields.io/website?label=adimension.io&style=for-the-badge&url=https%3A%2F%2Fadimension.io)](https://adimension.io)
 
-## Who me?.
+## Who me?
 
 - 🌱 I’m currently learning Rust and Go
 - ⌨ 2020 Goals: Contribute more to Open Source projects
 - 🧗 Fun things: I like to rock climb
 
-### Social:
+   <br />
 
 [<img align="left" alt="adimension.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="adimension_io | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
