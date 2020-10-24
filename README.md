@@ -29,9 +29,17 @@
 
 <br /><br />
 
-[![adimension github stats](https://github-readme-stats.vercel.app/api?username=abosnjakovic)](https://github.com/anuraghazra/github-readme-stats)<br />
+<details>
+  <summary>:zap: github stats</summary>
+[![adimension github stats](https://github-readme-stats.abosnjakovic.vercel.app/api?username=abosnjakovic)](https://github.com/abosnjakovic/github-readme-stats)<br />
+</details>
+
 <br />
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=adimension)](https://github.com/anuraghazra/github-readme-stats)<br />
+
+<details>
+  <summary>:zap: wakatime stats</summary>
+[![adimension wakatime stats](https://github-readme-stats.abosnjakovic.vercel.app/api/wakatime?username=adimension)](https://github.com/abosnjakovic/github-readme-stats)<br />
+</details>
 
 ---
 
