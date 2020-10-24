@@ -1,5 +1,7 @@
 [![Website](https://img.shields.io/website?label=adimension.io&style=for-the-badge&url=https%3A%2F%2Fadimension.io)](https://adimension.io)
 
+[![Spotify](https://novatorem-mu-nine.vercel.app/api/spotify)](https://open.spotify.com/user/1236398322?si=dEmLKx6LQ-idmdVJGJCHRw)
+
 ## Who me?
 
 - 🌱 I’m currently learning Rust and Go
@@ -29,17 +31,9 @@
 
 <br /><br />
 
-<details>
-  <summary>:zap: github stats</summary>
 [![adimension github stats](https://github-readme-stats.abosnjakovic.vercel.app/api?username=abosnjakovic)](https://github.com/abosnjakovic/github-readme-stats)<br />
-</details>
-
 <br />
-
-<details>
-  <summary>:zap: wakatime stats</summary>
 [![adimension wakatime stats](https://github-readme-stats.abosnjakovic.vercel.app/api/wakatime?username=adimension)](https://github.com/abosnjakovic/github-readme-stats)<br />
-</details>
 
 ---
 
