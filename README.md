@@ -34,10 +34,6 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-[![adimension github stats](https://github-readme-stats.abosnjakovic.vercel.app/api?username=abosnjakovic)](https://github.com/abosnjakovic/github-readme-stats)<br />
-<br />
-[![adimension wakatime stats](https://github-readme-stats.abosnjakovic.vercel.app/api/wakatime?username=adimension)](https://github.com/abosnjakovic/github-readme-stats)<br />
-
 ---
 
 [website]: https://adimension.io
