@@ -30,7 +30,7 @@
 
 <br /><br />
 
-# ✏ Blog posts
+## ✏ Blog posts
 
 <!-- BLOG-POST-LIST:START -->
 - [One JWT to rule them all.](https://dev.to/adimension_io/one-jwt-to-rule-them-all-55ac)
