@@ -4,9 +4,9 @@
 
 ## Who me?
 
-- 🌱 I’m currently learning Rust and Go
-- ⌨ 2020 Goals: Contribute more to Open Source projects
-- 🧗 Fun things: I like to rock climb
+- 🌱  I’m currently learning Rust for WASM and Go for DevOps
+- ⌨  2021 Goals: Contribute more to Open Source projects
+- 🧗  Fun things: I like to rock climb
 
    <br />
 
