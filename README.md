@@ -4,9 +4,9 @@
 
 ## Who me?
 
-- <pre>🌱  I’m currently learning Rust for WASM and Go for DevOps</pre>
-- <pre>⌨  2021 Goals: Contribute more to Open Source projects</pre>
-- <pre>🧗  Fun things: I like to rock climb</pre>
+<pre>🌱  I’m currently learning Rust for WASM and Go for DevOps</pre>
+<pre>⌨  2021 Goals: Contribute more to Open Source projects</pre>
+<pre>🧗  Fun things: I like to rock climb</pre>
 
    <br />
 
