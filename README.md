@@ -5,8 +5,8 @@
 ## Who me?
 
 <pre>🌱  I'm currently doing that 9-5 thing, a job.</pre>
-<pre>⌨  2022 Goals: Have the willpower to never update this again.</pre>
-<pre>🧗  Fun things: I like to rock climb. Cleartly I need to do more of that.</pre>
+<pre>⌨  2023 Goals: Have the willpower to never update this again.</pre>
+<pre>🧗  Fun things: I like to rock climb. Clearly I need to do more of that.</pre>
 
    <br />
 
