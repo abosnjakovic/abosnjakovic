@@ -16,20 +16,11 @@
 
 <br /><br />
 
-### Languages and Tools:
-
-
-[<img align="left" alt="Neovim" width="32px" src="https://raw.githubusercontent.com/neovim/neovim.github.io/master/logos/neovim-logo-300x87.png" />][nvim]
-[<img align="left" alt="Typescript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />][ts]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][fish]
-
-<br /><br />
-
 ## ✏ Blog posts
 
 <!-- BLOG-POST-LIST:START -->
 - [One JWT to rule them all.](https://dev.to/adimension_io/one-jwt-to-rule-them-all-55ac)
+- [Like the flame, love the dark.](https://www.adimension.io/blog/like-the-flame)
 <!-- BLOG-POST-LIST:END -->
 
 
