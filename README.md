@@ -4,9 +4,9 @@
 
 ## Who me?
 
-<pre>🌱  I'm currently doing that 9-5 thing, a job.</pre>
-<pre>⌨  2023 Goals: Have the willpower to never update this again.</pre>
-<pre>🧗  Fun things: I like to rock climb. Clearly I need to do more of that.</pre>
+<pre>🌱  I'm currently doing that 9-5 thing. Find out more about me [here](https://www.adimension.io/about) </pre>
+
+
 
    <br />
 
@@ -21,6 +21,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [One JWT to rule them all.](https://dev.to/adimension_io/one-jwt-to-rule-them-all-55ac)
 - [Like the flame, love the dark.](https://www.adimension.io/blog/like-the-flame)
+- [What ai?](https://www.adimension.io/blog/what-ai)
 <!-- BLOG-POST-LIST:END -->
 
 
