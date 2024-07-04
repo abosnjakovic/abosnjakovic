@@ -4,7 +4,7 @@
 
 ## Who me?
 
-<pre>🌱  I'm currently doing that 9-5 thing. Find out more about me [here](https://www.adimension.io/about) </pre>
+<pre>🌱  I'm currently doing that 9-5 thing. Find out more about me here https://www.adimension.io/about </pre>
 
 
 
