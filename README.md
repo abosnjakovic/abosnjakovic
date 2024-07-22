@@ -1,7 +1,5 @@
 [![Website](https://img.shields.io/website?label=adimension.io&style=for-the-badge&url=https%3A%2F%2Fadimension.io)](https://adimension.io)
 
-[![Spotify](https://novatorem-mu-nine.vercel.app/api/spotify)](https://open.spotify.com/user/1236398322?si=dEmLKx6LQ-idmdVJGJCHRw)
-
 ## Who me?
 
 <pre>🌱  I'm currently doing that 9-5 thing. Find out more about me here https://www.adimension.io/about </pre>
